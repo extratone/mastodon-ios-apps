@@ -19,3 +19,11 @@ Please do contribute/communicate if you see errors/missing apps in this list.
 * [Tootle](https://apps.apple.com/us/app/tootle-for-mastodon/id1236013466)
 * [B4X](https://apps.apple.com/us/app/b4x-for-pleroma-mastodon/id1538396871)
 * [Librem Social](https://apps.apple.com/us/app/librem-social/id1456164071)
+
+---
+
+## Relevant Resources
+
+* [Mastodon's official app list](https://joinmastodon.org/apps)
+* [The Mastodon GitHub topic](https://github.com/topics/mastodon)
+* [Open Source iOS Apps List](https://github.com/dkhamsing/open-source-ios-apps)
