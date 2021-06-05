@@ -1,9 +1,5 @@
 # Mastodon iOS Apps: The Complete, Ongoing List
 
-This repository was created with the intention of providing a definitive list of all iOS apps with support for the federated social software [**Mastodon**](https://github.com/tootsuite/mastodon). This should include Mastodon Clients, naturally, but it should also include utilities like Linky as well as any other apps with Mastodon support (for the moment). 
-
-Please do contribute/communicate if you see errors/missing apps in this list.
-
 * [Toot!](https://itunes.apple.com/app/toot/id1229021451)
 * [Mast](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129)
 * [Amaroq](https://itunes.apple.com/us/app/amarok-for-mastodon/id1214116200)
@@ -19,11 +15,3 @@ Please do contribute/communicate if you see errors/missing apps in this list.
 * [Tootle](https://apps.apple.com/us/app/tootle-for-mastodon/id1236013466)
 * [B4X](https://apps.apple.com/us/app/b4x-for-pleroma-mastodon/id1538396871)
 * [Librem Social](https://apps.apple.com/us/app/librem-social/id1456164071)
-
-![Mastodon iOS Icon Strip](https://i.snap.as/H25gzEg2.jpeg)
-
-## Relevant Resources
-
-* [Mastodon's official app list](https://joinmastodon.org/apps)
-* [The Mastodon GitHub topic](https://github.com/topics/mastodon)
-* [Open Source iOS Apps List](https://github.com/dkhamsing/open-source-ios-apps)
