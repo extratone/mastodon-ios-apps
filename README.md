@@ -27,3 +27,33 @@ Please do contribute/communicate if you see errors/missing apps in this list.
 * [Mastodon's official app list](https://joinmastodon.org/apps)
 * [The Mastodon GitHub topic](https://github.com/topics/mastodon)
 * [Open Source iOS Apps List](https://github.com/dkhamsing/open-source-ios-apps)
+
+---
+
+## Full URL List
+
+(From the [App Store Marketing Tools tool](https://tools.applemediaservices.com/app-store/).)
+
+https://tools.applemediaservices.com/app/1214116200
+https://tools.applemediaservices.com/app/1229021451
+https://tools.applemediaservices.com/app/1229174544
+https://tools.applemediaservices.com/app/1229461703
+https://tools.applemediaservices.com/app/1236013466
+https://tools.applemediaservices.com/app/1239260388
+https://tools.applemediaservices.com/app/1353905834
+https://tools.applemediaservices.com/app/1436972796
+https://tools.applemediaservices.com/app/1437429129
+https://tools.applemediaservices.com/app/1445328699
+https://tools.applemediaservices.com/app/1456164071
+https://tools.applemediaservices.com/app/1465090190
+https://tools.applemediaservices.com/app/1474451582
+https://tools.applemediaservices.com/app/1478806281
+https://tools.applemediaservices.com/app/1486749200
+https://tools.applemediaservices.com/app/1505059993
+https://tools.applemediaservices.com/app/1509290384
+https://tools.applemediaservices.com/app/1523996615
+https://tools.applemediaservices.com/app/1538396871
+https://tools.applemediaservices.com/app/1549772269
+https://tools.applemediaservices.com/app/375749531
+https://tools.applemediaservices.com/app/438090426
+https://tools.applemediaservices.com/app/921372048
