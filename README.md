@@ -16,7 +16,7 @@ Please do contribute/communicate if you see errors/missing apps in this list.
 * [Tootle](https://apps.apple.com/us/app/tootle-for-mastodon/id1236013466)
 * [Roma](https://apps.apple.com/us/app/roma-for-pleroma-and-mastodon/id1445328699)
 * [Fedi](https://apps.apple.com/us/app/id1478806281)
-* [Dudu (嘟嘟长毛象)](https://apps.apple.com/us/app/%E5%98%9F%E5%98%9F%E9%95%BF%E6%AF%9B%E8%B1%A1/id1531987827) - `http://bit.ly/duduios`
+* [Dudu (嘟嘟长毛象)](https://apps.apple.com/us/app/%E5%98%9F%E5%98%9F%E9%95%BF%E6%AF%9B%E8%B1%A1/id1531987827)
 * [Tootoise](https://apps.apple.com/us/app/tootoise/id1465090190)
 * [Stella](https://apps.apple.com/us/app/stella/id921372048)
 * [B4X for Pleroma & Mastodon](https://apps.apple.com/us/app/b4x-for-pleroma-mastodon/id1538396871)
@@ -25,14 +25,6 @@ Please do contribute/communicate if you see errors/missing apps in this list.
 * [tooot](https://apps.apple.com/us/app/tooot/id1549772269)
 * [Ore2](https://apps.apple.com/us/app/ore2-for-twitter-mastodon/id1107176601)
 * [Tusker](https://testflight.apple.com/join/wtB7HYvG)
-
-### ‽
-
-* [Linky](https://apps.apple.com/us/app/id438090426)
-* [MissCat](https://apps.apple.com/us/app/id1505059993)
-* [Librem Social](https://apps.apple.com/us/app/librem-social/id1456164071)
-
-![Mastodon iOS Icon Strip](https://i.snap.as/H25gzEg2.jpeg)
 
 ## Relevant Resources
 
@@ -44,7 +36,7 @@ Please do contribute/communicate if you see errors/missing apps in this list.
 
 ## Full URL List
 
-(From the [App Store Marketing Tools tool](https://tools.applemediaservices.com/app-store/).)
+(From the [App Store Marketing Tools tool](https://tools.applemediaservices.com/app-store/))
 * https://tools.applemediaservices.com/app/1571998974
 * https://tools.applemediaservices.com/app/1214116200
 * https://tools.applemediaservices.com/app/1229021451
