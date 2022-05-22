@@ -1,11 +1,11 @@
 # Mastoot
 
-![Mastoot Icon](~/icons/mastoot.png)
+![Mastoot Icon](https://github.com/extratone/mastodon-ios-apps/raw/main/icons/mastoot.png)
 
 - [GitHub Issue](https://github.com/extratone/mastodon-ios-apps/issues/11)
 - [**App Store**](https://apps.apple.com/us/app/mastoot/id1501485410)
 
-![Mastoot Screens](~/screens/mastoot.png)
+![Mastoot Screens](https://github.com/extratone/mastodon-ios-apps/raw/main/screens/mastoot.png)
 
 - **App ID**: 1501485410
 
