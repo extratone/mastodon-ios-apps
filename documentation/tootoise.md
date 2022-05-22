@@ -1,3 +1,53 @@
+# Tootoise
+- [GitHub Issue](https://github.com/extratone/mastodon-ios-apps/issues/12)
+-  [**App Store Page**](https://apps.apple.com/us/app/tootoise/id1465090190)
+- [Marketing Tools Page](https://tools.applemediaservices.com/app/1465090190)
+- [Fediverse Account](https://mastodon.social/@tootoise)
+
+![Tootoise Icon](https://github.com/extratone/mastodon-ios-apps/raw/main/icons/tootoise.png/raw)	
+
+![Tootoise Screens](https://github.com/extratone/mastodon-ios-apps/raw/main/screens/tootoise.png/raw)
+
+## Description
+
+Tootoise is a simple Mastodon client.
+
+### You can do this
+- View and post timeline
+- Add and switch multiple accounts
+- List display, creation and editing
+- Display favourites list
+- Display notifications list (not push notifications)
+- Display and input of custom emoji
+- Toot information about the song you are listening to
+- Sharing from other applications (Safari, etc.)
+- Use with iPad multitasking function (SplitView, SlideOver)
+- Change theme color and font size
+- Absolute time display
+- Pin on profile
+- Mute, block, report, filter
+- Search
+- Display of poll
+- Voting
+- Display bookmark lists
+- Add and delete bookmarks
+
+### These are not possible
+- Push notifications 
+- Streaming
+- Create a poll
+
+## Embed
+
+```
+<a href="https://apps.apple.com/us/app/tootoise/id1465090190?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-us?size=250x83&amp;releaseDate=1580774400&h=fe5bdce09732cb82241a2b3b4314979e" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+```
+
+---
+
+## Data
+
+```
 Name = Tootoise
 
 Artist = Naoki Kuwata
@@ -151,3 +201,4 @@ https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/40/b3/ee/40b3eecb-d71f-617
 https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/c3/7e/44/c37e440b-8f96-ceb1-6c3a-a8980a25f5af/pr_source.png/576x768bb.png
 
 Artwork URL = https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/c4/b0/06/c4b00687-60bc-b483-62b7-714a6e5f46b8/source/512x512bb.png
+```
