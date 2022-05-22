@@ -4,9 +4,9 @@
 - [Marketing Tools Page](https://tools.applemediaservices.com/app/1465090190)
 - [Fediverse Account](https://mastodon.social/@tootoise)
 
-![Tootoise Icon](https://github.com/extratone/mastodon-ios-apps/raw/main/icons/tootoise.png/raw)	
+![Tootoise Icon](https://github.com/extratone/mastodon-ios-apps/raw/main/icons/tootoise.png)	
 
-![Tootoise Screens](https://github.com/extratone/mastodon-ios-apps/raw/main/screens/tootoise.png/raw)
+![Tootoise Screens](https://github.com/extratone/mastodon-ios-apps/raw/main/screens/tootoise.png)
 
 ## Description
 
