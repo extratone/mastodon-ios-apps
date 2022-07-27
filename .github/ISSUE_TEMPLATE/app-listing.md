@@ -13,10 +13,11 @@ assignees: extratone
 
 - [GitHub Issue](https://github.com/extratone/mastodon-ios-apps/issues/)
 - [**App Store**]()
+- [Home Page]()
 
 ![ Screens](screens/.png)
 
-- **App ID**: 1501485410
+- **App ID**: `1501485410`
 
 ## Description
 > Mastoot is a beautiful, elegant, and performant Mastodon client app.
