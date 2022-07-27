@@ -1,5 +1,5 @@
 # Linky for Twitter and Mastodon
-	Updated `07272022-060823`
+Updated `07272022-064810`
 
 ![Linky Icon](https://github.com/extratone/mastodon-ios-apps/raw/main/icons/linky-for-twitter-and-mastodon.png)
 
@@ -9,7 +9,7 @@
 - [Home Page](https://pragmaticcode.com/linky/)
 - [WTF](https://davidblue.wtf/drafts/02DD8081-9F8F-471C-B8FE-C849D481192D.html)
 
-`![ Screens](screens/.png)`
+![Linky Screenshot](https://github.com/extratone/mastodon-ios-apps/raw/main/screens/linky07272022-064655.PNG.png)
 
 - **App ID**: `438090426`
 
