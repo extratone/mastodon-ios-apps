@@ -1,10 +1,11 @@
 # Linky for Twitter and Mastodon
-Updated `07272022-060823`
+	Updated `07272022-060823`
 
 ![Linky Icon](https://github.com/extratone/mastodon-ios-apps/raw/main/icons/linky-for-twitter-and-mastodon.png)
 
 - [GitHub Issue](https://github.com/extratone/mastodon-ios-apps/issues/14)
 - [**App Store**](https://apps.apple.com/us/app/linky-for-twitter-and-mastodon/id438090426) 
+- [Press Kit](https://pragmaticcode.com/press/presskit-linky.zip)
 - [Home Page](https://pragmaticcode.com/linky/)
 - [WTF](https://davidblue.wtf/drafts/02DD8081-9F8F-471C-B8FE-C849D481192D.html)
 
@@ -72,6 +73,9 @@ Features:
 
 @benoitsan hi Benoit! I've been working on adding Linky to my repository collecting iOS apps for Mastodon and noticed that the Dropbox link to the press kit appears to be broken. is there any way I could grab that from you?
 - [Twitter](https://twitter.com/NeoYokel/status/1552244884958068736)
+- [Reply](https://twitter.com/benoitsan/status/1552250670039924737)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hi David, thank you for adding Linky. Here is a working link. Note that the press kit might contain not up-to-update info. <a href="https://t.co/QrC79nTgmT">https://t.co/QrC79nTgmT</a></p>&mdash; Benoît (@benoitsan) <a href="https://twitter.com/benoitsan/status/1552250670039924737?ref_src=twsrc%5Etfw">July 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Benoît Bourdon
 benoit@pragmaticcode.com
