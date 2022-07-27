@@ -1,0 +1,234 @@
+
+
+screenshotUrls=[
+
+https://is4-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/87/43/98/874398ec-f513-e711-6c55-2e088f47a44d/0d8d450e-c4f5-48c4-ada5-cf23796916d0_1.jpg/392x696bb.jpg
+ 
+
+https://is2-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/74/be/90/74be903f-7b42-4d28-6871-15d20b2a0f3a/19aeb905-9766-4efe-9eb7-56a073ba8cc0_2.jpg/392x696bb.jpg
+ 
+
+https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a0/8e/19/a08e19d5-60e8-f6c4-494a-ef9d55e3c91d/9cf7c6e5-ba6e-4278-a340-354a4a559c53_3.jpg/392x696bb.jpg
+
+
+ipadScreenshotUrls=[
+
+https://is3-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/23/4c/8c/234c8cbe-c579-6af4-3a87-5892aa7d5c41/2ea23335-3afa-42dc-a5d9-641310ddc878_1.jpg/576x768bb.jpg
+ 
+
+https://is4-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/c8/d4/42/c8d442eb-93fc-ea32-1ea0-5d14196c3c64/c376aee3-9df6-4ebf-afdf-e1fb1a9f2a64_2.jpg/576x768bb.jpg
+ 
+
+https://is5-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/62/10/70/621070b0-da4e-c80a-9026-f7466da7669b/a24901c0-85cb-4eaf-94ed-ed95100ff939_3.jpg/576x768bb.jpg
+
+
+appletvScreenshotUrls= 
+
+
+artworkUrl60=https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4b/48/21/4b4821b3-59a6-1470-e1ac-f13832fd2878/Twidere-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg
+ 
+
+
+artworkUrl512=https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4b/48/21/4b4821b3-59a6-1470-e1ac-f13832fd2878/Twidere-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+ 
+
+
+artworkUrl100=https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4b/48/21/4b4821b3-59a6-1470-e1ac-f13832fd2878/Twidere-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg
+
+artistViewUrl=https://apps.apple.com/us/developer/sujiteku-limited-liability-co/id1049084226?uo=4
+
+features=iosUniversal
+
+
+supportedDevices=iPhone5s-iPhone5s
+iPadAir-iPadAir
+iPadAirCellular-iPadAirCellular
+iPadMiniRetina-iPadMiniRetina
+iPadMiniRetinaCellular-iPadMiniRetinaCellular
+iPhone6-iPhone6
+iPhone6Plus-iPhone6Plus
+iPadAir2-iPadAir2
+iPadAir2Cellular-iPadAir2Cellular
+iPadMini3-iPadMini3
+iPadMini3Cellular-iPadMini3Cellular
+iPodTouchSixthGen-iPodTouchSixthGen
+iPhone6s-iPhone6s
+iPhone6sPlus-iPhone6sPlus
+iPadMini4-iPadMini4
+iPadMini4Cellular-iPadMini4Cellular
+iPadPro-iPadPro
+iPadProCellular-iPadProCellular
+iPadPro97-iPadPro97
+iPadPro97Cellular-iPadPro97Cellular
+iPhoneSE-iPhoneSE
+iPhone7-iPhone7
+iPhone7Plus-iPhone7Plus
+iPad611-iPad611
+iPad612-iPad612
+iPad71-iPad71
+iPad72-iPad72
+iPad73-iPad73
+iPad74-iPad74
+iPhone8-iPhone8
+iPhone8Plus-iPhone8Plus
+iPhoneX-iPhoneX
+iPad75-iPad75
+iPad76-iPad76
+iPhoneXS-iPhoneXS
+iPhoneXSMax-iPhoneXSMax
+iPhoneXR-iPhoneXR
+iPad812-iPad812
+iPad834-iPad834
+iPad856-iPad856
+iPad878-iPad878
+iPadMini5-iPadMini5
+iPadMini5Cellular-iPadMini5Cellular
+iPadAir3-iPadAir3
+iPadAir3Cellular-iPadAir3Cellular
+iPodTouchSeventhGen-iPodTouchSeventhGen
+iPhone11-iPhone11
+iPhone11Pro-iPhone11Pro
+iPadSeventhGen-iPadSeventhGen
+iPadSeventhGenCellular-iPadSeventhGenCellular
+iPhone11ProMax-iPhone11ProMax
+iPhoneSESecondGen-iPhoneSESecondGen
+iPadProSecondGen-iPadProSecondGen
+iPadProSecondGenCellular-iPadProSecondGenCellular
+iPadProFourthGen-iPadProFourthGen
+iPadProFourthGenCellular-iPadProFourthGenCellular
+iPhone12Mini-iPhone12Mini
+iPhone12-iPhone12
+iPhone12Pro-iPhone12Pro
+iPhone12ProMax-iPhone12ProMax
+iPadAir4-iPadAir4
+iPadAir4Cellular-iPadAir4Cellular
+iPadEighthGen-iPadEighthGen
+iPadEighthGenCellular-iPadEighthGenCellular
+iPadProThirdGen-iPadProThirdGen
+iPadProThirdGenCellular-iPadProThirdGenCellular
+iPadProFifthGen-iPadProFifthGen
+iPadProFifthGenCellular-iPadProFifthGenCellular
+iPhone13Pro-iPhone13Pro
+iPhone13ProMax-iPhone13ProMax
+iPhone13Mini-iPhone13Mini
+iPhone13-iPhone13
+iPadMiniSixthGen-iPadMiniSixthGen
+iPadMiniSixthGenCellular-iPadMiniSixthGenCellular
+iPadNinthGen-iPadNinthGen
+iPadNinthGenCellular-iPadNinthGenCellular
+iPhoneSEThirdGen-iPhoneSEThirdGen
+iPadAirFifthGen-iPadAirFifthGen
+iPadAirFifthGenCellular-iPadAirFifthGenCellular
+
+
+advisories=Frequent/Intense Horror/Fear Themes
+Frequent/Intense Mature/Suggestive Themes
+Infrequent/Mild Sexual Content and Nudity
+Frequent/Intense Cartoon or Fantasy Violence
+Infrequent/Mild Realistic Violence
+Infrequent/Mild Medical/Treatment Information
+Frequent/Intense Profanity or Crude Humor
+
+isGameCenterEnabled=false
+
+kind=software
+
+minimumOsVersion=15.0
+
+trackCensoredName=Twidere X
+languageCodesISO2A=AR
+EU
+CA
+EN
+GL
+DE
+JA
+KO
+PT
+ZH
+ES
+TR
+
+fileSizeBytes=41769984
+
+sellerUrl=https://x.twidere.com
+formattedPrice=Free
+
+contentAdvisoryRating=17+
+
+averageUserRatingForCurrentVersion=4.69230999999999998095745468162931501865386962890625
+
+userRatingCountForCurrentVersion=13
+
+averageUserRating=4.69230999999999998095745468162931501865386962890625
+
+trackViewUrl=https://apps.apple.com/us/app/twidere-x/id1530314034?uo=4
+
+trackContentRating=17+
+
+bundleId=com.twidere.TwidereX
+
+currency=USD
+
+primaryGenreName=Social Networking
+
+primaryGenreId=6005
+
+releaseDate=2021-01-17T08:00:00Z
+
+genreIds=6005
+6002
+
+
+sellerName=SUJITEKU LIMITED LIABILITY CO.
+
+isVppDeviceBasedLicensingEnabled=true
+
+trackId=1530314034
+
+trackName=Twidere X
+
+currentVersionReleaseDate=2022-07-24T14:53:24Z
+ 
+
+
+releaseNotes=- Add Mastodon Push Notification supports
+- Add App shortcut to open unread notifications scene directly in the Home Screen icon menu
+- Add scroll position restore feature when tap the status bar again
+- Fix timeline scroll position reset when view reload in the background issue
+- Fix no file extension of shared twitter media file issue
+
+artistId=1049084226
+
+artistName=SUJITEKU LIMITED LIABILITY CO.
+
+genres=Social Networking
+Utilities
+
+price=0.00 
+
+description=Timeline - See what's new and what's happening! Tweets are sorted by time, support for displaying retweets with comments, and quick display of discussion threads. Pictures, GIFs, and videos are displayed in a completely new design. Complete features to ensure your browsing experience. 
+  
+Album mode - Enjoy the pure picture waterfall on the search and profile page. At the same time, multiple pictures in the timeline and tweets are displayed in an elegant form.  
+ 
+Quickly display the discussion thread-Complete view of the discussion! Up to 2 levels of tweet conversations can be quickly displayed in tweets. 
+  
+Customized personalized interface - Perfect personalization features allow users to customize their interface: support for setting avatar style, following system settings to display light or dark mode, and customizing text size.  
+ 
+Send tweets - You can send live photos in your tweets, or select images from the photo gallery. Send tweets that include the subject and location.  
+ 
+Multiple accounts - Use as many identities as you want! You can add multiple Twitter accounts to Twidere X, ensuring that they don't interfere with each other.  
+ 
+Search - Find tweets, media, and users among thousands of information. You can also use advanced search syntax to get more effective information.  
+ 
+User Profile Display - New design for user’s homepage display. Subtle display of avatar, profile, and background. Also, the number of users following and follower, click to enter the list. 
+  
+User tweets display - a perfect display of user-related tweets and liked tweets with a quick display of discussion threads. Images are elegantly displayed in album mode.  
+No ads - We do not carry any ads! A cool tweet experience. 
+Twitter is a trademark of Twitter, Inc.
+
+version=1.4.2
+
+wrapperType=software
+
+userRatingCount=13
