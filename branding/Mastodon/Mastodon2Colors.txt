@@ -1,0 +1,25 @@
+/* Coolors Exported Palette - https://coolors.co/6364ff-563acc-17063b-2f0c7a-858afa */
+
+/* CSV */
+6364ff,563acc,17063b,2f0c7a,858afa
+
+/* With # */
+#6364ff, #563acc, #17063b, #2f0c7a, #858afa
+
+/* Array */
+["6364ff","563acc","17063b","2f0c7a","858afa"]
+
+/* Object */
+{"Neon Blue":"6364ff","Ocean Blue":"563acc","Russian Violet":"17063b","Persian Indigo":"2f0c7a","Cornflower Blue":"858afa"}
+
+/* Extended Array */
+[{"name":"Neon Blue","hex":"6364ff","rgb":[99,100,255],"cmyk":[61,61,0,0],"hsb":[240,61,100],"hsl":[240,100,69],"lab":[51,44,-77]},{"name":"Ocean Blue","hex":"563acc","rgb":[86,58,204],"cmyk":[58,72,0,20],"hsb":[252,72,80],"hsl":[252,59,51],"lab":[37,50,-71]},{"name":"Russian Violet","hex":"17063b","rgb":[23,6,59],"cmyk":[61,90,0,77],"hsb":[259,90,23],"hsl":[259,82,13],"lab":[6,23,-30]},{"name":"Persian Indigo","hex":"2f0c7a","rgb":[47,12,122],"cmyk":[61,90,0,52],"hsb":[259,90,48],"hsl":[259,82,26],"lab":[17,43,-54]},{"name":"Cornflower Blue","hex":"858afa","rgb":[133,138,250],"cmyk":[47,45,0,2],"hsb":[237,47,98],"hsl":[237,92,75],"lab":[62,27,-57]}]
+
+/* XML */
+<palette>
+  <color name="Neon Blue" hex="6364ff" r="99" g="100" b="255" />
+  <color name="Ocean Blue" hex="563acc" r="86" g="58" b="204" />
+  <color name="Russian Violet" hex="17063b" r="23" g="6" b="59" />
+  <color name="Persian Indigo" hex="2f0c7a" r="47" g="12" b="122" />
+  <color name="Cornflower Blue" hex="858afa" r="133" g="138" b="250" />
+</palette>
