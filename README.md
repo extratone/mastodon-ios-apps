@@ -19,6 +19,7 @@ Please do contribute/communicate if you see errors/missing apps in this list.
 - [Mastoot](https://apps.apple.com/us/app/mastoot/id1501485410) #11 
 - [Mercury](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200)
 - [Metatext](https://apps.apple.com/us/app/metatext/id1523996615)
+- [Nootti](https://apps.apple.com/app/nootti/id6476751741)
 - [Ore2](https://apps.apple.com/us/app/ore2-for-twitter-mastodon/id1107176601)
 - [Oyakodon](https://apps.apple.com/us/app/oyakodon-for-mastodon/id1229174544)
 - [Roma](https://apps.apple.com/us/app/roma-for-pleroma-and-mastodon/id1445328699)
